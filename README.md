@@ -35,10 +35,6 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,sql,pandas,azure,databricks,snowflake,git" />
-    <img src="https://skillicons.dev/icons?i=powerbi,vscode,github,linux,excel,flask,fastapi" /><br>
-</div>
 
 <br/>
 <hr/>
